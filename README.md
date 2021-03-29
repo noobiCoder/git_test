@@ -1,1 +1,2 @@
 This is noobiCoder's first git project!
+Hi I am David, I am self learning to code with The Odin Poject and Free Code Camp. I've been learning from the past months to code and I hope to become a front end web dev. I am really noob to coding and all the help is welcome.
